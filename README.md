@@ -1,9 +1,5 @@
 # Roadmap Back-end 2023
 
-✅ Aprenda a programar do zero ao profissional: https://mapadaprogramacao.com.br/
-<br/>
-⭐ Não deixe de deixar o seu start no repositório.
-
 ## 1. Como funciona a internet?
 - Pesquisar artigos e vídeos de como funciona a internet
 - O que é HTTP
